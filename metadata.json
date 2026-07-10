@@ -1,0 +1,8 @@
+{
+  "name": "Remix: PRIME - Auto Belt Finder",
+  "description": "A premium PRIME Catalog tool to instantly find power transmission belt specifications for any vehicle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
